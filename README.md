@@ -144,5 +144,3 @@ kubectl apply -f manifests/ingress.yaml
 ## 📝 Author
 
 Shivsamb Jalkote – [GitHub](https://github.com/Shivsamb-Jalkote)
-
-```
