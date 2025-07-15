@@ -143,13 +143,6 @@ kubectl apply -f manifests/ingress.yaml
 
 ## 📝 Author
 
-Shivsamb Jalkote – [GitHub](https://github.com/your-github-username)
+Shivsamb Jalkote – [GitHub](https://github.com/Shivsamb-Jalkote)
 
-```
-
----
-
-Let me know:
-- Your GitHub repo name (I'll update the links).
-- If you'd like me to generate the Terraform, manifest, and ArgoCD files next.
 ```
