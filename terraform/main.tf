@@ -27,7 +27,7 @@ module "eks" {
 
   enable_irsa = true
 
-  node_groups = {
+   eks_managed_node_groups = {
     default = {
       desired_capacity = 2
       max_capacity     = 3
@@ -35,6 +35,7 @@ module "eks" {
       instance_types   = ["t3.medium"]
     }
   }
+
 
   tags = {
     Terraform   = "true"
